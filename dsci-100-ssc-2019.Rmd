@@ -1,0 +1,29 @@
+---
+title: "Teaching an “Introduction to Data Science"
+subtitle: "A Discussion of Course Design Intent and Lessons Learned"
+author: "Tiffany A. Timbers"
+institute: "University of British Columbia"
+date: "2019/05/24 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+
+# Design Intent
+
+Introduce Data Science in an authentic way while reducing barriers to entry to the lowest possible.
+
+---
+class: middle
+
+# Learner Personas
+
+*Emily is a first year undergraduate who is thinking of becoming a data analyst after she graduates. She only has grade 12 Math. She has heard of the R programming language knows it is used at her university in many statistics courses (which she plans to take) but never used it (or any other programming language) before. She is finding university very financially challenging and can only afford a Chrome book.*
+
+*Mohammed is fourth year Biology undergraduate who plans to attend graduate school next year. His undergraduate honours thesis project requires analysis of data sets that are too big to be opened in JMP, the only data analysis software he has ever used. His thesis supervisor suggested he learn R to do the analysis. The supervisor gave him a book to read to do this, but Mohammed is having a hard time staying motivated doing this on his own without any feedback.*
