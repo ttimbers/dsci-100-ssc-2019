@@ -1,6 +1,6 @@
 ---
 title: 'Teaching an "Introduction to Data Science"'
-subtitle: "A Discussion of Course Design Intent and Lessons Learned"
+subtitle: "Course Design Intent & Lessons Learned"
 author: "Tiffany A. Timbers"
 institute: "University of British Columbia"
 date: "2019/05/24 (updated: `r Sys.Date()`)"
@@ -13,7 +13,21 @@ output:
       countIncrementalSlides: false
 ---
 
+class: middle
+
+# DSCI 100 - Introduction to Data Science
+
+*Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized*
+
+Links:
+- UBC course calendar: https://bit.ly/2Mcj7rZ  
+- Course repository on GitHub: https://bit.ly/2WSD0pq
+
+---
+
 # Design Intent
+
+--
 
 - introduce Data Science to undergraduates in an authentic way
 
@@ -24,6 +38,11 @@ output:
 --
 
 - reducing barriers to entry and success
+
+--
+
+<img src="https://2.bp.blogspot.com/--nwHn7d6qbk/Vs8ukMIaVmI/AAAAAAAAej8/fBg9o4i2i58/s1600/good-intentions.jpg" width="700">
+
 
 ---
 
@@ -272,11 +291,8 @@ class: inverse, center, middle
 
 --
 
-- Web server to provide access to homework via any device (laptop, chromebook, ipad)
+- Web server to provide access to homework via any device (laptop, chromebook, ipad) that the student owns or borrows from the university's library.
 
---
-
-- UBC's laptop lending program
 
 ---
 
