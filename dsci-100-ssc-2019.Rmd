@@ -248,6 +248,38 @@ class: inverse, center, middle
 
 ---
 
+# Reducing barriers to entry and success
+
+- Gender and cultural minorities are under represented in STEM (ref)
+
+--
+
+- Our aim was to remove as many barriers as possible for entry and success in DSCI 100 in hopes to help foster diversity in Data Science at least at the entry level
+
+---
+
+# Reducing barriers to entry and success
+
+- Minimal pre-requisites (MATH 12)
+
+--
+
+- Anonymous class discussion forum (Piazza)
+
+--
+
+- Formal and public course code of conduct
+
+--
+
+- Web server to provide access to homework via any device (laptop, chromebook, ipad)
+
+--
+
+- UBC's laptop lending program
+
+---
+
 - notebooks can be shared with students via a web server linked to the course LMS (e.g., Canvas, EdX)
 
 - worksheet_01: https://bit.ly/2K4DtAI
