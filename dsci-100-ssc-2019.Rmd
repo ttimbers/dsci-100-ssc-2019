@@ -295,48 +295,37 @@ To reinforce the algorithm behind Kmeans clustering:
 4. iterate over 2 & 3 until things stop changing
 ---
 
-class: inverse, center, middle
+class: inverse, middle
 
 # Reducing barriers to entry and success
+
+- Gender and cultural minorities are under represented in STEM
+
+- Aim: remove as many barriers as possible for entry & success in DSCI 100
 
 ---
 
-# Reducing barriers to entry and success
-
-- Gender and cultural minorities are under represented in STEM (ref)
-
---
-
-- Our aim was to remove as many barriers as possible for entry and success in DSCI 100 in hopes to help foster diversity in Data Science at least at the entry level
-
----
-
-# Reducing barriers to entry and success
+class: middle
+## How? 
 
 - Minimal pre-requisites (MATH 12)
 
---
 
 - Anonymous class discussion forum (Piazza)
 
---
 
-- [Formal and public course code of conduct](https://ubc-dsci.github.io/dsci-100/CODE_OF_CONDUCT.html)
+- Formal and public course code of conduct
 
---
 
-- **Web server to provide access to homework via the course learning management system (LMS) on any device (laptop, chromebook, ipad) that the student owns or borrows from the university's library.**
+- **Web server to provide access to homework via the course learning management system (LMS)!**
 
 
 ---
+class: middle
 
 ## A JupyterHub server accessed via the course LMS
 
---
-
 - Did not want to relying on computer labs and/or managing student installation of course software
-
---
 
 - Students access homework and necessary software via a button inside course LMS (e.g., Canvas, EdX)
 
@@ -346,16 +335,16 @@ class: center, middle
 # [Demonstration time!](https://canvas.ubc.ca/courses/19078)
 
 ---
-
+class: middle
 ## Experiment with JupyterHub yourself!
 
 The below links let you access the homework for DSCI 100 via a JupyterHub server that uses Google authentication (and therefore open to everyone):
 
-- worksheet_01: https://bit.ly/2K4DtAI
-- worksheet_08: https://bit.ly/2YHlAMy
+- [worksheet_01](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-DSCI%2Fdsci-100&branch=master&urlpath=tree%2Fdsci-100%2Fmaterials%2Fworksheet_01%2Fworksheet_01.ipynb)
+- [worksheet_08](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-DSCI%2Fdsci-100&branch=master&urlpath=tree%2Fdsci-100%2Fmaterials%2Fworksheet_08%2Fworksheet_08.ipynb)
 
 ---
-
+class: middle
 # Exit survey results
 
 *16 students have completed our exit survey, so far...*
@@ -371,7 +360,7 @@ The below links let you access the homework for DSCI 100 via a JupyterHub server
 ]
 
 ---
-
+class: middle
 # Exit survey results
 
 .pull-left[
@@ -405,18 +394,16 @@ Many, but here are the big 3:
 
 --
 
-1. May not have enough time to adequately teach Git & GitHub
-  - what to do: try Google Colab or Kaggle kernels instead?
+1. May not have enough time and learner prior knowledge & motivation to teach Git & GitHub
 
 --
 
 2. Assessing incoming and exiting knowledge is difficult
-  - what to do: refine pre- and post-knowledge survey/concept inventory
-
+  
 --
 
 3. Have many eyeballs review autograded questions
-  - what to do: ensure TA's go through questions before they are released
+
 ---
 
 # Acknowledgements
@@ -438,7 +425,7 @@ Many, but here are the big 3:
 
 .pull-right[
 #### DSCI 100 Infrastructure:
-- Ian Allison
+- Ian Allison 
 - Samuel Hinshaw
 - The Ha
 - Calvin Leung
@@ -456,53 +443,5 @@ Many, but here are the big 3:
 class: inverse, middle, center
 
 # Questions?
-
----
----
----
-
-# Week-by-week breakdown of topics
-
-
-| Week | Topic |
-|------|-------|
-| 1 | Introduction to Data Science | 
-| 2 | Reading data locally & from the web |  
-| 3 | Cleaning and wrangling data | 
-| 4 | Effective data visualization | 
-| 5 | Quiz 1 & introduction to Git & GitHub | 
-| 6 | Introduction to classification via K-nearest neighbours (k-nn) | 
-| 7 | Classification, continued  | 
-| 8 | Introduction to regression for prediction via k-nn |
-| 9 | Quiz 2 & work on project |
-| 10 | Regression for prediction, continued (introduction to linear regression) |
-| 11 | Regression for prediction in a multi-variate context |
-| 12 | Clustering via Kmeans |
-| 14 | Visualizing high-dimensional data via t-sne |
-
-
-
-# Keeping it real
-
-- Real world datasets ()
-
---
-
-- Modern and industry standard software 
-
---
-
-- Analytic methods to solve common Data Science problems
-
----
-
-# Real world datasets
-
-Examples include:
-
-- Runners survey from ...
-- Weather data from ...
-- World Happiness Index 
-- ...
 
 ---
