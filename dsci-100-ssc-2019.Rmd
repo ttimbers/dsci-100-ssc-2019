@@ -443,5 +443,3 @@ Many, but here are the big 3:
 class: inverse, middle, center
 
 # Questions?
-
----
