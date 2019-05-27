@@ -45,7 +45,8 @@ Links:
 
 ---
 
-# Learner Personas
+# Learner Personas 
+*intended audience*
 
 prerequisite: MATH 12
 
@@ -59,6 +60,18 @@ prerequisite: MATH 12
 
 ---
 
+# Our actual learners
+
+.pull-left[
+<img src="img/year.png" width="250">
+<img src="img/program.png" width="250">
+]
+
+.pull-right[
+<img src="img/pre-confidence.png" width="800">
+]
+
+---
 
 # High-level learning goals of this course
 
