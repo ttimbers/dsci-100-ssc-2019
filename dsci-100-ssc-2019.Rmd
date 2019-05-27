@@ -344,7 +344,7 @@ class: inverse, center, middle
 ---
 class: center, middle
 
-[Demonstration time!](https://canvas.ubc.ca/courses/19078)
+# [Demonstration time!](https://canvas.ubc.ca/courses/19078)
 
 ---
 
@@ -359,7 +359,7 @@ The below links let you access the homework for DSCI 100 via a JupyterHub server
 
 # Exit survey results
 
-*16 students so far have completed our exit survey*
+*16 students have completed our exit survey, so far...*
 
 .pull-left[
 - **94%** student respondents reported they are **more interested in taking additional Data Science courses**
@@ -398,6 +398,68 @@ The below links let you access the homework for DSCI 100 via a JupyterHub server
 ]
 
 **_bolded terms do not intersect these two lists_**
+---
+
+# Lessons learned
+
+Many, but here are the big 3:
+
+--
+
+1. May not have enough time to adequately teach Git & GitHub
+  - what to do: try Google Colab or Kaggle kernels instead?
+
+--
+
+2. Assessing incoming and exiting knowledge is difficult
+  - what to do: refine pre- and post-knowledge survey/concept inventory
+
+--
+
+3. Have many eyeballs review autograded questions
+  - what to do: ensure TA's go through questions before they are released
+---
+
+# Acknowledgements
+
+.pull-left[
+#### DSCI 100 Development:
+- Paul Gustafson
+- Matias Salibian-Barrera
+- Will Welch
+- Nancy Heckman
+- Tiffany Timbers
+- Melissa Lee
+- Samuel Hinshaw
+- Melissa Guzman
+- Harmeet Gill
+- Ian Flores Siaca
+]
+
+
+.pull-right[
+#### DSCI 100 Infrastructure:
+- Ian Allison
+- Samuel Hinshaw
+- The Ha
+- Calvin Leung
+- Yuvi Pandas
+
+#### DSCI 100 Teaching Team:
+- Tiffany Timbers
+- Aaron Quinton
+- Harmeet Gill
+- Ian Flores-Siaca
+
+]
+---
+
+class: inverse, middle, center
+
+# Questions?
+
+---
+---
 ---
 
 # Week-by-week breakdown of topics
