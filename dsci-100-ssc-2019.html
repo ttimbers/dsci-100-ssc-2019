@@ -34,22 +34,21 @@ Links:
 
 # Design Intent
 
---
-
-- introduce Data Science to undergraduates in an authentic way
-
---
-
-- use pedagogical best practices for teaching Data Science
-
---
-
-- reducing barriers to entry and success
-
---
-
 &lt;img src="https://2.bp.blogspot.com/--nwHn7d6qbk/Vs8ukMIaVmI/AAAAAAAAej8/fBg9o4i2i58/s1600/good-intentions.jpg" width="700"&gt;
 
+---
+
+# Design Intent
+
+1. Introduce Data Science to undergraduates in an authentic way
+
+--
+
+2. Use pedagogical best practices for teaching Data Science
+
+--
+
+3. Reducing barriers to entry and success
 
 ---
 
@@ -74,19 +73,15 @@ At the end of the course, students will know how to:
 
 --
 
-- use modern reproducible tools (Jupyter notebooks, R, `tidyverse` &amp; `caret` R packages) to do data analysis
+- Use modern reproducible tools (Jupyter notebooks, R, `tidyverse` &amp; `caret` R packages) to do data analysis
 
 --
 
-- recognize when a data science problem can be solved by classification\*, regression\* or clustering
+- Recognize when a data science problem can be solved by classification, regression\* or clustering (_ \* in a predictive context only_)
 
 --
 
-- use R to solve classification, regression and clustering problems, and correctly interpret and communicate the results
-
---
-
-_ \* in a predictive context only_
+- Use R to solve classification, regression and clustering problems, and correctly interpret and communicate the results
 
 ---
 
@@ -120,20 +115,6 @@ _ \* in a predictive context only_
 class: inverse, center, middle
 
 # Introduce Data Science to undergraduates in an authentic way
-
----
-
-# Keeping it real
-
-- real world datasets
-
---
-
-- modern and industry standard software
-
---
-
-- analytic methods to solve common Data Science problems
 
 ---
 
@@ -206,15 +187,11 @@ class: inverse, center, middle
 
 # Case studies
 
-Each topic we taught were taught within the context of Data Science case studies:
+Each topic was taught within the context of Data Science case studies:
 
 &lt;img src="https://d33wubrfki0l68.cloudfront.net/795c039ba2520455d833b4034befc8cf360a70ba/558a5/diagrams/data-science-explore.png" width="700"&gt;
 
 *source: [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund &amp; Hadley Wickham*
----
-
-EXAMPLE OF CASE STUDY TO TEACH READING IN DATA?
-
 ---
 
 # Practice with immediate feedback
@@ -234,8 +211,11 @@ EXAMPLE OF CASE STUDY TO TEACH READING IN DATA?
 
 ---
 
-Example of code &amp; run with and without feedback (fade away)
+# Code and run examples
 
+&lt;img src="img/cnr1.png" width="800"&gt;
+
+&lt;img src="img/cnr2.png" width="800"&gt;
 ---
 
 # Active learning in-class activites
@@ -248,24 +228,67 @@ Most lectures and some tutorials had in-class activities, examples include:
 
 --
 
-- tactile examples of data re-shaping
+- tactile data re-shaping
 
 --
 
-- dance/role-play of algoritms
+- dance/role-play of algorithms
 
 ---
 
-EXAMPLES OF CLASS ACTIVITIES
+# Example pair/group programming challenge
+
+**Instructions to students:** Can petal length and width be used to separate the Iris flower species? Create an effective plot to answer this question! When you are done, share your code on the class forum.
+
+**Then bring everyone together to discuss a solution from the class forum:**
+&lt;img src="img/class_activity_group_programming.png" width="550"&gt;
 
 ---
 
+# Example pair/group programming challenge
 
-# Classroom layout
+The screens in the DSCI 100 classroom greatly facilitated these activites:
 
-&lt;img src="https://learningspaces.ubc.ca/sites/learningspaces.ubc.ca/files/styles/room_images/public/classroom-images/ORCH%204074-3-2.JPG?itok=26VLoCsA&amp;c=67023bb16f7f8c344c08cb93eef0f4d6" width="700"&gt;
+&lt;img src="https://learningspaces.ubc.ca/sites/learningspaces.ubc.ca/files/styles/room_images/public/classroom-images/ORCH%204074-3-2.JPG?itok=26VLoCsA&amp;c=67023bb16f7f8c344c08cb93eef0f4d6" width="800"&gt;
 
+---
 
+# Example tactile data re-shaping
+
+At the beginning of a tutorial on classification of the handwritten digits data set it is very hard for students to understand how you go from images like those shown below to tabular data for k-nn classification.
+
+&lt;img src="https://assets.digitalocean.com/articles/handwriting_tensorflow_python3/wBCHXId.png"&gt;
+
+---
+
+# Example tactile data re-shaping
+
+&lt;img src="img/grids.png" width="500"&gt;
+
+**Materials:** scissors, tape &amp; printed images (above)
+
+**Exercise:** For each grid:
+- give each square an estimated value for pixel intensity (0 for completely white, 1 for completely black)
+- use the scissors to cut the printed images into rows
+- with tape, paste the rows together to get a single row  
+
+---
+
+# Example dance/role-play of algorithms
+
+To reinforce the algorithm behind Kmeans clustering:
+
+&lt;img src="img/kmeans_materials.png" width="500"&gt;
+
+**Set-up:**
+- TA's wear coloured t-shirts &amp; students have a post it of each colour
+- one post-it note for each student has an asterisk (random)
+
+**Exercise:**
+1. students hold up post-it with asterisk 
+2. TA's move the center of the students holding up the colour corresponding to their shirt
+3. students look for the closest TA and update the colour of the post-it they are holding to match
+4. iterate over 2 &amp; 3 until things stop changing
 ---
 
 class: inverse, center, middle
@@ -328,6 +351,33 @@ class: inverse, center, middle
 | 11 | Regression for prediction in a multi-variate context |
 | 12 | Clustering via Kmeans |
 | 14 | Visualizing high-dimensional data via t-sne |
+
+
+
+# Keeping it real
+
+- Real world datasets ()
+
+--
+
+- Modern and industry standard software 
+
+--
+
+- Analytic methods to solve common Data Science problems
+
+---
+
+# Real world datasets
+
+Examples include:
+
+- Runners survey from ...
+- Weather data from ...
+- World Happiness Index 
+- ...
+
+---
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
