@@ -7,7 +7,7 @@ University of British Columbia
 
 [@TiffanyTimbers](https://twitter.com/TiffanyTimbers)
 
-[Talk slides](https://github.com/ttimbers/dsci-100-ssc-2019/blob/master/DSCI%20100_%20Introduction%20to%20Data%20Science.pdf) for my 2019 Statistics Society of Canada (SSC) talk on how the first iteration of the DSCI 100 (Introduction to Data Science) course I taught at UBC in spring 2019.
+[Talk slides](https://ttimbers.github.io/dsci-100-ssc-2019/dsci-100-ssc-2019.html) for my 2019 Statistics Society of Canada (SSC) talk on how the first iteration of the DSCI 100 (Introduction to Data Science) course I taught at UBC in spring 2019.
 
 ### Relevant links:
 - Course GitHub repository: https://github.com/UBC-DSCI/dsci-100
